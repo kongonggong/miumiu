@@ -26,7 +26,7 @@ export default function Home() {
 
         <div className="p-6 text-center">
           {/* Title */}
-          <h1 className="text-2xl font-bold text-pink-700 mb-2">❤</h1>
+          <h1 className="text-2xl font-bold text-pink-700 mb-2">❤ MiuMiu Auann ❤</h1>
 
           {/* Message */}
           <p className="mt-2 text-gray-700">{message}</p>
